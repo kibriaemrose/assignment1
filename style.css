@@ -10,13 +10,13 @@ body {
     background-size: cover;
     padding-top: 200px;
     padding-right: 80px;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
     padding-left: 80px;
 }
 
 .heading-h1 {
     color: aliceblue;
-    font-size: 80px;
+    font-size: 70px;
 }
 
 .first-para {
@@ -37,4 +37,87 @@ body {
     color: aliceblue;
     font-size: 32px;
     font-weight: 800;
+}
+
+.second-section {
+    text-align: center;
+    padding-top: 80px;
+    padding-right: 80px;
+    padding-bottom: 150px;
+    padding-left: 80px;
+}
+
+#second-section-h2 {
+    color: black;
+    font-size: 50px;
+}
+
+#second-section-para {
+    font-size: 32px;
+    color: grey;
+}
+
+.counter {
+    display: flex;
+    font-size: 34px;
+    align-content: center;
+    margin-left: 200px;
+    color: gray;
+
+}
+
+#div1 {
+    width: 20%;
+    padding-top: 60px;
+    padding-right: 120px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    background-color: ghostwhite;
+    border-radius: 10px;
+}
+
+#div2 {
+    width: 20%;
+    padding-top: 60px;
+    padding-right: 120px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    color: tomato;
+    background-color: rgb(240, 226, 224);
+    border: tomato solid;
+    border-radius: 10px;
+}
+
+#div3 {
+    width: 20%;
+    padding-top: 60px;
+    padding-right: 120px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    background-color: ghostwhite;
+    border-radius: 10px;
+
+}
+
+#div4 {
+    width: 20%;
+    padding-top: 60px;
+    padding-right: 125px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    background-color: ghostwhite;
+    border-radius: 10px;
+
+}
+
+#div5 {
+    width: 20%;
+    padding-top: 60px;
+    padding-right: 130px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    background-color: ghostwhite;
+    border-radius: 10px;
+    text-align: center;
+
 }
