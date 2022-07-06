@@ -245,3 +245,21 @@ body {
     width: fit-content;
     padding-right: 100px;
 }
+
+#fifth-section-div {
+    align-content: center;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 60px;
+    padding-left: 80px;
+}
+
+#fifth-section-h2 {
+    font-size: 36px;
+    text-align: center;
+}
+
+#fifth-section-para {
+    text-align: center;
+    font-size: 24px;
+}
