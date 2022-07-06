@@ -134,7 +134,8 @@ body {
 
 }
 
-#label {}
+/* #label {
+} */
 
 
 #second-section-second-h2 {
@@ -179,4 +180,68 @@ body {
     padding-left: 20px;
     background-color: ghostwhite;
     border-radius: 10px;
+}
+
+.third-section-first-div {
+    display: flex;
+    align-content: center;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 60px;
+    padding-left: 150px;
+    width: fit-content;
+}
+
+.third-section-second-div {
+    padding-top: 60px;
+    padding-right: 200px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    border-radius: 20px;
+    width: fit-content;
+}
+
+#third-section-h2 {
+    font-size: 36px;
+    margin-top: 80px;
+}
+
+.third-section-para {
+    font-size: 24px;
+    color: gray;
+
+}
+
+#fourth-section {
+    display: flex;
+    align-content: center;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 60px;
+    padding-left: 80px;
+}
+
+#fourth-section-h2 {
+    font-size: 36px;
+    margin-top: 80px;
+}
+
+.fourth-section-para {
+    font-size: 24px;
+    color: gray;
+    text-align: justify;
+}
+
+#fourth-section-second-div {
+    padding-right: 120px;
+    padding-bottom: 60px;
+    padding-left: 0px;
+    border-radius: 20px;
+    width: fit-content;
+}
+
+.fourth-section-first-div {
+    padding-top: 70px;
+    width: fit-content;
+    padding-right: 100px;
 }
