@@ -131,12 +131,15 @@ body {
     padding-bottom: 20px;
     padding-left: 20px;
     width: max-content;
+    border: none;
+    border-bottom: 2px solid gray;
+    font-size: 24px;
 
 }
 
-/* #label {
-} */
-
+#label {
+    font-size: 24px;
+}
 
 #second-section-second-h2 {
     margin-top: 120px;
@@ -273,7 +276,9 @@ body {
     padding-left: 80px;
     margin-left: 400px;
     margin-right: 400px;
-    background-color: bisque;
+    background-color: rgba(255, 228, 196, 0.233);
+    box-shadow: 10px 10px 8px 10px #888888;
+
 }
 
 #email {
@@ -281,7 +286,10 @@ body {
     padding-right: 15px;
     padding-bottom: 15px;
     padding-left: 15px;
-    background-color: rgb(167, 173, 179);
+    font-size: 24px;
+    border: none;
+    border-bottom: 2px solid gray;
+    background-color: rgba(240, 248, 255, 0.11);
     font-size: 24px;
 }
 
@@ -290,10 +298,11 @@ body {
     padding-right: 30px;
     padding-bottom: 10px;
     padding-left: 30px;
-    background-color: green;
+    background-color: rgb(68, 126, 10);
     color: aliceblue;
     font-size: 24px;
     margin-top: 0px;
+    border: none;
 }
 
 #fifth-section {
@@ -308,4 +317,9 @@ footer {
     padding-bottom: 10px;
     padding-left: 30px;
     color: aliceblue;
+}
+
+#footer-h2 {
+    font-size: 42px;
+    color: crimson;
 }
